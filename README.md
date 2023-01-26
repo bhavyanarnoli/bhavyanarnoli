@@ -33,6 +33,6 @@
 </p>
 
 ## 
-![](https://github-readme-stats.vercel.app/api?username=bhavyanarnoli &theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhavyanarnoli &theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bhavyanarnoli&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhavyanarnoli&theme=tokyonight&hide_border=false)<br/>
 
