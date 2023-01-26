@@ -29,8 +29,7 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
        <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="37" height="40"/> </a>
    
-    <a href="https://processing.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/768px-Processing_3_logo.png" alt="processing" width="42" height="42"/> </a>     
+        
 </p>
 
 ## 
