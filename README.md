@@ -17,7 +17,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> </a>
-
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -27,9 +26,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="linux" width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-       <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="37" height="40"/> </a>
-   
-        
+       <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="37" height="40"/> </a>    
 </p>
 
 ## 
