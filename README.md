@@ -1,8 +1,5 @@
-### Hi there 👋
 
-
-
-### Bhavya Narnoli, a Computer Science & Design gradutate at [IIIT Delhi](https://github.com/IIIT-Delhi).
+### HI , I'm Bhavya Narnoli, a Computer Science & Design gradutate at [IIIT Delhi](https://github.com/IIIT-Delhi).
 - 🌱 I’m currently studying in 2nd year 
 ## Toolbox
 
