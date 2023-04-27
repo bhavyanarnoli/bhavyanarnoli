@@ -28,7 +28,7 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
        <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="37" height="40"/> </a>    
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg" alt="LaTeX" width="40" height="43"/> </a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg" alt="LaTeX" width="50" height="43"/> </a>
 </p>
 
 ## 
