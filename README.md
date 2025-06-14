@@ -1,5 +1,5 @@
 
-### HI , I'm Bhavya Narnoli, a Computer Science & Design Senior at [IIIT Delhi](https://github.com/IIIT-Delhi).
+### HI , I'm Bhavya Narnoli, a Computer Science & Design Graaduate from [IIIT Delhi](https://github.com/IIIT-Delhi).
 ## Toolbox
 
 <p align="left">
